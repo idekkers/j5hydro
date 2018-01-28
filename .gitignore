@@ -1,0 +1,10 @@
+﻿/.vs
+/.idea
+/node_modules
+/typings
+/server/log
+/typings
+/ds.njsproj
+/ds.sln
+/.vs/ds/v14
+/.vs/config
